@@ -1,4 +1,12 @@
-### Hi there 👋
+# Halo semua! 
+
+Perkenalkan nama saya **Sendy Fenita**.<br>
+
+Saya seorang **Mahasiswa** di Universitas Airlangga.<br>
+
+Saya memiliki minat di bidang Business Intelligence.<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/sendy-fenita/)ku ya.
 
 <!--
 **sendyfenita/sendyfenita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
