@@ -6,7 +6,7 @@ Saya seorang **Mahasiswa** di Universitas Airlangga.<br>
 
 Saya memiliki minat di bidang Business Intelligence.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/sendy-fenita/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/sendy-fenita-b27b2a288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)ku ya.
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/penuliscode">
